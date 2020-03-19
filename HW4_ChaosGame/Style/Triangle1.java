@@ -55,10 +55,6 @@ public class Triangle {
         drawTriangleChaos(0.1, 0.1, 0.1, 0.9, 0.9, 0.1, 20000);
     }
 }
-//I did work with a buddy. His name is Ethan and has taken this class before. 
-//I am not using any grace points. 
-//It took me approximately four or five hours to finish this assignment. 
-//I feel neutral just because it was super long in my opinion. 
 
 
 
